@@ -20,8 +20,8 @@
       </nav>
 
       <div class="content">
-        <span class="title">Devops Developer</span>
-        <h1>Hello, I’m Mahalakshmi </h1>
+        <h1>DevOps Engineer</h1>
+        <h2>Hello, I am  Mahalakshmi </h2>
         <p>
           Seeking an entry-level position to apply my knowledge of cloud computing, CI/CD pipelines, 
          and containerization technologies to optimize software delivery and enhance operational efficiency 
